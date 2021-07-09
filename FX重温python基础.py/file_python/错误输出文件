@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/newFS/py/FX重温python基础.py/file_python/sys_python.py", line 21, in <module>
+    我就是错误 
+NameError: name '我就是错误' is not defined
